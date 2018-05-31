@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GUI
 Główny program graficzny do obsługi łodzi ROV 3.0
 
@@ -17,3 +18,6 @@ Aby uruchomić aplikacje:
 ```console
 [admin@adminPC GUI]:~$ npm run start
 ```
+=======
+# electron_starter
+>>>>>>> 9d1d6854fecca5251df4ff9b0cc09843ec07e4d5
